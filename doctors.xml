@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop version="2.0" date="2026-06-10T12:00:00">
+  <name>С.О.Ч.И. Стоматология</name>
+  <company>ООО «СТОМСОЧИ»</company>
+  <url>https://stom-sochi.ru/</url>
+  <picture>https://static.tildacdn.com/tild3736-3866-4061-b637-613930623438/image.png</picture>
+  <email>stom.sochi@yandex.ru</email>
+
+  <!-- ===================== ВРАЧИ ===================== -->
+  <doctors>
+
+    <doctor id="doctor_1">
+      <name>Кайновская Анастасия Андреевна</name>
+      <url>https://stom-sochi.ru/doctors/kaynovskaya</url>
+      <picture>https://static.tildacdn.com/tild6635-3737-4439-b530-326637343332/doctor_05.png</picture>
+      <first_name>Анастасия</first_name>
+      <surname>Кайновская</surname>
+      <patronymic>Андреевна</patronymic>
+      <experience_years>10</experience_years>
+      <career_start_date>2016-01-01</career_start_date>
+      <description>Стоматолог-ортопед. Специализируется на протезировании зубов: установка коронок, виниров, мостовидных протезов.</description>
+      <education>
+        <organization>Самарский государственный медицинский университет</organization>
+        <finish_year>2016</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <education>
+        <organization>Самарский государственный медицинский университет</organization>
+        <finish_year>2018</finish_year>
+        <type>Ординатура</type>
+        <specialization>Стоматология ортопедическая</specialization>
+      </education>
+    </doctor>
+
+    <doctor id="doctor_2">
+      <name>Белянина Ксения Алексеевна</name>
+      <url>https://stom-sochi.ru/doctors/belyanina</url>
+      <picture>https://static.tildacdn.com/tild6664-6138-4132-a331-323465376433/doctor_06.png</picture>
+      <first_name>Ксения</first_name>
+      <surname>Белянина</surname>
+      <patronymic>Алексеевна</patronymic>
+      <description>Стоматолог-терапевт-микроскопист. Лечение зубов под микроскопом, эстетические реставрации.</description>
+      <education>
+        <organization>Казанский государственный медицинский университет</organization>
+        <finish_year>2019</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <education>
+        <organization>Повышение квалификации</organization>
+        <type>Повышение квалификации</type>
+        <specialization>Стоматология общей практики</specialization>
+      </education>
+      <certificate>
+        <name>Курс «posterior class LL»</name>
+        <finish_year>2024</finish_year>
+      </certificate>
+      <certificate>
+        <name>Курс «Секреты реставрации в эстетически важной зоне»</name>
+        <finish_year>2023</finish_year>
+      </certificate>
+    </doctor>
+
+    <doctor id="doctor_3">
+      <name>Сибгатуллин Фаниль Фанисович</name>
+      <url>https://stom-sochi.ru/doctors/sibgatullin</url>
+      <picture>https://static.tildacdn.com/tild3964-6239-4464-b634-646535346263/doctorpopup_03.png</picture>
+      <first_name>Фаниль</first_name>
+      <surname>Сибгатуллин</surname>
+      <patronymic>Фанисович</patronymic>
+      <description>Стоматолог-хирург-имплантолог. Хирургическое лечение, имплантация зубов, удаление зубов.</description>
+      <education>
+        <organization>Казанский государственный медицинский университет</organization>
+        <finish_year>2019</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <education>
+        <organization>Казанский государственный медицинский университет</organization>
+        <type>Ординатура</type>
+        <specialization>Челюстно-лицевая хирургия</specialization>
+      </education>
+      <certificate>
+        <name>Курс «Реставрация жевательной группы зубов»</name>
+        <finish_year>2024</finish_year>
+      </certificate>
+    </doctor>
+
+    <doctor id="doctor_4">
+      <name>Маркина Лариса Владимировна</name>
+      <url>https://stom-sochi.ru/doctors/markina</url>
+      <picture>https://static.tildacdn.com/tild6333-6230-4163-a430-663063656539/doctor_08.png</picture>
+      <first_name>Лариса</first_name>
+      <surname>Маркина</surname>
+      <patronymic>Владимировна</patronymic>
+      <experience_years>23</experience_years>
+      <career_start_date>2002-01-01</career_start_date>
+      <description>Стоматолог-терапевт. Лечение кариеса, пульпита, периодонтита, современная эндодонтия.</description>
+      <education>
+        <organization>Казанский государственный медицинский университет</organization>
+        <finish_year>2002</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <certificate>
+        <name>Лучевая диагностика в амбулаторной практике</name>
+        <finish_year>2009</finish_year>
+      </certificate>
+      <certificate>
+        <name>Реставрация боковых зубов</name>
+      </certificate>
+      <certificate>
+        <name>Современная эндодонтия</name>
+      </certificate>
+    </doctor>
+
+    <doctor id="doctor_5">
+      <name>Буденная Ольга Витальевна</name>
+      <url>https://stom-sochi.ru/doctors/budennaya</url>
+      <picture>https://static.tildacdn.com/tild3265-3066-4234-a565-363964626535/Screenshot_2025-07-3.png</picture>
+      <first_name>Ольга</first_name>
+      <surname>Буденная</surname>
+      <patronymic>Витальевна</patronymic>
+      <description>Стоматолог-гигиенист. Профессиональная гигиена полости рта, чистка Air Flow, отбеливание зубов.</description>
+      <education>
+        <organization>Казанский государственный медицинский университет</organization>
+        <finish_year>2025</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <certificate>
+        <name>Тренинг «Стоматологическая профилактика для врачей-гигиенистов»</name>
+        <finish_year>2024</finish_year>
+      </certificate>
+      <certificate>
+        <name>Курс «ProКонтактный Пункт»</name>
+        <finish_year>2024</finish_year>
+      </certificate>
+      <certificate>
+        <name>Курс «Реставрация жевательной группы зубов функционально и быстро»</name>
+        <finish_year>2023</finish_year>
+      </certificate>
+    </doctor>
+
+    <doctor id="doctor_6">
+      <name>Шамсутдинова Камила Бахриевна</name>
+      <url>https://stom-sochi.ru/doctors/shamsutdinova</url>
+      <picture>https://static.tildacdn.com/tild3333-6562-4636-a663-613561373037/YzLHEgCL_U0.jpg</picture>
+      <first_name>Камила</first_name>
+      <surname>Шамсутдинова</surname>
+      <patronymic>Бахриевна</patronymic>
+      <description>Стоматолог-ортодонт. Лечение на брекетах и элайнерах, коррекция прикуса у взрослых и детей.</description>
+      <education>
+        <organization>Казанский (Приволжский) федеральный университет</organization>
+        <finish_year>2021</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <education>
+        <organization>ГАУ ЧР ДПО «Институт усовершенствования врачей»</organization>
+        <finish_year>2025</finish_year>
+        <type>Ординатура</type>
+        <specialization>Ортодонтия</specialization>
+      </education>
+    </doctor>
+
+    <doctor id="doctor_7">
+      <name>Габдулхаева Юлия Маратовна</name>
+      <url>https://stom-sochi.ru/doctors/gabdulkhaeva</url>
+      <picture>https://static.tildacdn.com/tild3465-6662-4232-b264-356165323537/Screenshot_2025-07-3.png</picture>
+      <first_name>Юлия</first_name>
+      <surname>Габдулхаева</surname>
+      <patronymic>Маратовна</patronymic>
+      <description>Стоматолог-терапевт. Лечение кариеса, реставрации, эстетическая стоматология.</description>
+      <education>
+        <organization>Казанский государственный медицинский университет</organization>
+        <finish_year>2025</finish_year>
+        <type>Специалитет</type>
+        <specialization>Стоматология</specialization>
+      </education>
+      <certificate>
+        <name>Курс «Произоляцию и Реставрацию»</name>
+      </certificate>
+      <certificate>
+        <name>Курс «Современная базовая эндодонтия»</name>
+      </certificate>
+    </doctor>
+
+  </doctors>
+
+  <!-- ===================== КЛИНИКИ ===================== -->
+  <clinics>
+
+    <clinic id="clinic_1">
+      <name>Стоматология С.О.Ч.И. на Чуйкова</name>
+      <url>https://stom-sochi.ru/</url>
+      <city>г. Казань</city>
+      <address>ул. Чуйкова, д. 27А</address>
+      <phone>+78432165025</phone>
+      <email>stom.sochi@yandex.ru</email>
+      <company_id>84187170393</company_id>
+    </clinic>
+
+    <clinic id="clinic_2">
+      <name>Стоматология С.О.Ч.И. на Хайдара Бигичева</name>
+      <url>https://stom-sochi.ru/</url>
+      <city>г. Казань</city>
+      <address>ул. Хайдара Бигичева, 28а</address>
+      <phone>+78432165025</phone>
+      <email>stom.sochi@yandex.ru</email>
+      <company_id>84187170393</company_id>
+    </clinic>
+
+  </clinics>
+
+  <!-- ===================== УСЛУГИ ===================== -->
+  <services>
+
+    <service id="service_ortoped_primary">
+      <name>Первичный приём стоматолога-ортопеда</name>
+      <description>Консультация и осмотр стоматолога-ортопеда, составление плана протезирования</description>
+    </service>
+
+    <service id="service_terapevt_primary">
+      <name>Первичный приём стоматолога-терапевта</name>
+      <description>Консультация и осмотр стоматолога-терапевта</description>
+    </service>
+
+    <service id="service_hirurg_primary">
+      <name>Первичный приём стоматолога-хирурга</name>
+      <description>Консультация и осмотр стоматолога-хирурга</description>
+    </service>
+
+    <service id="service_ortodont_primary">
+      <name>Первичный приём стоматолога-ортодонта</name>
+      <description>Консультация и осмотр ортодонта, составление плана ортодонтического лечения</description>
+    </service>
+
+    <service id="service_gigienist_primary">
+      <name>Первичный приём стоматолога-гигиениста</name>
+      <description>Консультация и осмотр врача-гигиениста, профессиональная гигиена полости рта</description>
+    </service>
+
+  </services>
+
+  <!-- ===================== ПРЕДЛОЖЕНИЯ ===================== -->
+  <offers>
+
+    <!-- Кайновская — ортопед, клиника 1 -->
+    <offer id="offer_1">
+      <url>https://stom-sochi.ru/doctors/kaynovskaya</url>
+      <appointment>true</appointment>
+      <service id="service_ortoped_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_1">
+          <speciality>стоматолог-ортопед</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Кайновская — ортопед, клиника 2 -->
+    <offer id="offer_2">
+      <url>https://stom-sochi.ru/doctors/kaynovskaya</url>
+      <appointment>true</appointment>
+      <service id="service_ortoped_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_1">
+          <speciality>стоматолог-ортопед</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Белянина — терапевт, клиника 1 -->
+    <offer id="offer_3">
+      <url>https://stom-sochi.ru/doctors/belyanina</url>
+      <appointment>true</appointment>
+      <service id="service_terapevt_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_2">
+          <speciality>стоматолог-терапевт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Белянина — терапевт, клиника 2 -->
+    <offer id="offer_4">
+      <url>https://stom-sochi.ru/doctors/belyanina</url>
+      <appointment>true</appointment>
+      <service id="service_terapevt_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_2">
+          <speciality>стоматолог-терапевт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Сибгатуллин — хирург, клиника 1 -->
+    <offer id="offer_5">
+      <url>https://stom-sochi.ru/doctors/sibgatullin</url>
+      <appointment>true</appointment>
+      <service id="service_hirurg_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_3">
+          <speciality>стоматолог-хирург</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Сибгатуллин — хирург, клиника 2 -->
+    <offer id="offer_6">
+      <url>https://stom-sochi.ru/doctors/sibgatullin</url>
+      <appointment>true</appointment>
+      <service id="service_hirurg_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_3">
+          <speciality>стоматолог-хирург</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Маркина — терапевт, клиника 1 -->
+    <offer id="offer_7">
+      <url>https://stom-sochi.ru/doctors/markina</url>
+      <appointment>true</appointment>
+      <service id="service_terapevt_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_4">
+          <speciality>стоматолог-терапевт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Маркина — терапевт, клиника 2 -->
+    <offer id="offer_8">
+      <url>https://stom-sochi.ru/doctors/markina</url>
+      <appointment>true</appointment>
+      <service id="service_terapevt_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_4">
+          <speciality>стоматолог-терапевт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Буденная — гигиенист, клиника 1 -->
+    <offer id="offer_9">
+      <url>https://stom-sochi.ru/doctors/budennaya</url>
+      <appointment>true</appointment>
+      <service id="service_gigienist_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_5">
+          <speciality>стоматолог-гигиенист</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>true</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Буденная — гигиенист, клиника 2 -->
+    <offer id="offer_10">
+      <url>https://stom-sochi.ru/doctors/budennaya</url>
+      <appointment>true</appointment>
+      <service id="service_gigienist_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_5">
+          <speciality>стоматолог-гигиенист</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>true</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Шамсутдинова — ортодонт, клиника 1 -->
+    <offer id="offer_11">
+      <url>https://stom-sochi.ru/doctors/shamsutdinova</url>
+      <appointment>true</appointment>
+      <service id="service_ortodont_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_6">
+          <speciality>стоматолог-ортодонт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>true</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Шамсутдинова — ортодонт, клиника 2 -->
+    <offer id="offer_12">
+      <url>https://stom-sochi.ru/doctors/shamsutdinova</url>
+      <appointment>true</appointment>
+      <service id="service_ortodont_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_6">
+          <speciality>стоматолог-ортодонт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>true</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Габдулхаева — терапевт, клиника 1 -->
+    <offer id="offer_13">
+      <url>https://stom-sochi.ru/doctors/gabdulkhaeva</url>
+      <appointment>true</appointment>
+      <service id="service_terapevt_primary"/>
+      <clinic id="clinic_1">
+        <doctor id="doctor_7">
+          <speciality>стоматолог-терапевт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <!-- Габдулхаева — терапевт, клиника 2 -->
+    <offer id="offer_14">
+      <url>https://stom-sochi.ru/doctors/gabdulkhaeva</url>
+      <appointment>true</appointment>
+      <service id="service_terapevt_primary"/>
+      <clinic id="clinic_2">
+        <doctor id="doctor_7">
+          <speciality>стоматолог-терапевт</speciality>
+          <adult_appointment>true</adult_appointment>
+          <children_appointment>false</children_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+  </offers>
+
+</shop>
