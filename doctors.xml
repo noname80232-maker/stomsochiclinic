@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<shop version="2.0" date="2026-06-10T12:00:00">
+<shop version="2.0" date="2026-06-16T12:00:00">
   <name>С.О.Ч.И. Стоматология</name>
   <company>ООО «СТОМСОЧИ»</company>
   <url>https://stom-sochi.ru/</url>
+  <picture>https://static.tildacdn.com/tild3339-6163-4439-b937-343230393434/355c5049-ef3f-4786-b.png</picture>
   <email>stom.sochi@yandex.ru</email>
 
   <!-- ===================== ВРАЧИ ===================== -->
